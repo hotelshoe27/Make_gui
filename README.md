@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=bKPIcoou9N8
 
 ---
 ### Basic ver.
-Provide basic GUI frame using Tkinter library
+Provide basic GUI frame using Tkinter
 
 ---
 
